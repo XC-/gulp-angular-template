@@ -1,4 +1,4 @@
-# Project template for [gulp.js](http://gulpjs.com/) + AngularJS 1 [angular.js](https://angularjs.org/)
+# Project template for [gulp.js](http://gulpjs.com/) + [AngularJS 1](https://angularjs.org/)
 <img width="114px" height="257px" align="right" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png"/>
 
 
