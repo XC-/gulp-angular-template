@@ -57,7 +57,7 @@
     },
     "inject":{
       "resources":[
-        "./public/*.css",
+        "./public/css/*.css",
         "./public/**/*.js"
       ]
     }
