@@ -76,6 +76,9 @@ I would advice against it. Keeping the version history makes it easier to receiv
 ### I want to use CoffeeScript instead of JavaScript
 Fork this repository and customize it based on your preferences. Please leave an issue about your fork and we'll add it to the list below.
 
+### How about dependency injections?
+It might be possible to use ng-annotate for them, however, it is rather simple to use the manual, old-fashioned way which is demonstrated in thetitle-component (src/components/Title).
+It recommended to use the array notation as it is also recommended in the [AngularJS Documentation](https://docs.angularjs.org/guide/di). This way things also work after minify/uglify.
 
 **Known forks of the original Gulp project template**
 

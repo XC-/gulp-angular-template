@@ -3,7 +3,6 @@
  */
 
 var message1 = function() {
-  'ngInject';
   this.greeting = this.content;
 };
 

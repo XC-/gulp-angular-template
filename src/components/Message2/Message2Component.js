@@ -3,7 +3,6 @@
  */
 
 var message2 = function() {
-  'ngInject';
   this.about = this.content;
 };
 
